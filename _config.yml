@@ -1,3 +1,13 @@
+# Site settings
 theme: jekyll-theme-minimal
 title: Balázs Bámer's homepage
-description: Here you can find my most important repositories.
+email: bamerbalazs@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Here you can find my most important repositories. Most of them are side projects, but some originate from my professional activity, with the company releasing them into the public domain.
+baseurl: "/" 
+url: "http://balazs-bamer.github.io" # the base hostname & protocol for your site
+github_username:  balazs-bamer
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
