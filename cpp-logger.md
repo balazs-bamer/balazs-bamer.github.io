@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C++ template-based cross-platform log library
+title: C++ cross-platform log library
 permalink: /cpp-logger/
 ---
 
