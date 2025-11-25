@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C++ graph DB engine
-permalink: /cpp-memory-manager/
+permalink: /UDBGraph/
 ---
 
 UDBGraph - a C++ graph database engine based on UpscaleDB key-value store.
